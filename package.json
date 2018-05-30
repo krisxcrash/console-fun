@@ -1,0 +1,23 @@
+{
+  "name": "console-fun",
+  "version": "1.0.0",
+  "description": "playing around with fonts and colors in the console",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krisxcrash/console-fun.git"
+  },
+  "author": "kristine martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krisxcrash/console-fun/issues"
+  },
+  "homepage": "https://github.com/krisxcrash/console-fun#readme",
+  "dependencies": {
+    "colors": "^1.3.0",
+    "figlet": "^1.2.0"
+  }
+}
